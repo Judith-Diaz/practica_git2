@@ -19,3 +19,21 @@ Ver estado: git status
 Agregar archivo: git add .
 
 Primer commit: git commit -m "Inicializamos el proyecto y agregamos descripción"
+
+Mini–práctica 2: 
+
+Modificamos el proyecto y analizamos el historial
+
+Objetivo: Practicar múltiples commits y entender el historial.
+
+Pasos
+
+Modificar archivo principal y ver su estado
+
+Agregar cambios: git add .
+
+Crear commit. Por ejemplo: git commit -m "Agregamos nuestro nombre a la página"
+
+Ver historial: git log
+
+(Opcional) Ver detalles del último commit: git show
