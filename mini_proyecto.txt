@@ -1,0 +1,21 @@
+Mini–práctica 1:
+
+Nuestro primer repositorio y primer commit
+
+Objetivo: Crear un repositorio local, configurar Git y registrar el primer cambio.
+
+Pasos
+
+Crear carpeta Proyecto Git.
+
+Abrir terminal dentro de la carpeta o a través de Visual Studio Code.
+
+Ejecutar: git init
+
+Utilizar el archivo "certificado" de la siguiente carpeta (Carpeta de código) o crear un index.html con tu proyecto.
+
+Ver estado: git status
+
+Agregar archivo: git add .
+
+Primer commit: git commit -m "Inicializamos el proyecto y agregamos descripción"
